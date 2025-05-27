@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>/flicker</title>
+  <style>
+    body {
+      background-color: black;
+      color: #00ffcc;
+      font-family: 'Courier New', monospace;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2rem;
+      animation: flicker 1s infinite alternate;
+    }
+    p {
+      font-size: 1rem;
+      opacity: 0.7;
+    }
+    @keyframes flicker {
+      from { opacity: 0.8; }
+      to { opacity: 0.4; }
+    }
+    /* Hidden password: lumina */
+  </style>
+</head>
+<body>
+  <h1>Welcome to /flicker</h1>
+  <p>The light you seek hides in the darkness. Inspect the shadows...</p>
+</body>
+</html>
