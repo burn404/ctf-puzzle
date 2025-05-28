@@ -56,7 +56,7 @@ Post your progress in the comments of the **YouTube video** linked with this cha
 
 ## 📜 Credits
 
-Created by Server One.  
+Created by burn404.  
 Inspired by the spirit of **Cicada 3301**.
 
 ---
