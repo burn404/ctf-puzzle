@@ -1,66 +1,51 @@
-# 🕵️ Luminaria — A Cicada 3301-Inspired CTF
+# 🌒 Luminaria: A Cicada 3301-Inspired CTF Puzzle
 
-Welcome to **Luminaria** — a mysterious puzzle designed to test your mind, your curiosity, and your problem-solving skills.  
-This project draws inspiration from the legendary **Cicada 3301** challenges and weaves a path through shadows, secrets, and hidden messages.
+Welcome, seeker.  
 
----
-
-## 🧩 What's Inside
-
-This puzzle contains a collection of files:
-
-- `index.html` — The entry point to the challenge.
-- `2lost.html`, `echo.html`, `final.html`, `congrats.html` — Web pages with hidden clues.
-- `puzzle.jpg` — A mysterious image. Look closely...
-- `silence_with_message.wav` — An audio file. You might need to listen carefully.
-- `puzzle.zip` — A file containing hidden secrets.
-- Other clues are hidden within the files... if you know where to look.
+This is **Luminaria**—a mysterious challenge designed for those who dare to think beyond the obvious. Inspired by the enigmatic **Cicada 3301** puzzles, this experience will test your skills in decoding, problem-solving, and hidden knowledge.  
 
 ---
 
-## 🚀 How to Play
+## 🧩 The Journey
 
-1. **Start with `index.html`** in your browser.  
-2. **Inspect each page** — check the source code, comments, and page content.  
-3. **Examine the media files**:
-   - Listen to the audio file carefully.
-   - Analyze the image for hidden data.
-   - Unzip the puzzle archive — what secrets lie within?
-4. Use tools like:
-   - A text editor or code viewer.
-   - Base64 decoders.
-   - Steganography analyzers.
-   - Audio editing tools (spectrograms, filters).
+Your adventure begins at:  
+🌐 [https://burn404.github.io/ctf-puzzle/](https://burn404.github.io/ctf-puzzle/)  
 
-5. **Follow the clues** — each step leads you to the next.
+The first step is simple: look closer.  
+Follow the clues. Solve the puzzles. Trust nothing. Expect the unexpected.  
 
----
+Along the way, you’ll encounter:  
+- Hidden messages  
+- Encrypted codes  
+- Audio clues  
+- ZIP archives with secrets inside  
 
-## 🎯 The Challenge
-
-Solve the puzzle completely and reach the end page.  
-Post your progress in the comments of the **YouTube video** linked with this challenge.
-
-**First to solve it all** earns a special reward!
+Each file, each clue, each challenge is a piece of the bigger puzzle.  
 
 ---
 
-## 🧠 Hints
+## 🔑 Your Mission
 
-- Not all clues are visible at first glance.
-- Sound can hide more than you think.
-- Look for codes, ciphers, and hidden text.
-- The key is patience, curiosity, and attention to detail.
-
----
-
-## 📜 Credits
-
-Created by burn404.  
-Inspired by the spirit of **Cicada 3301**.
+1. **Start at the homepage**.  
+2. **Decode the clues**—they may be in plain sight, or hidden within the code.  
+3. **Solve each step** to unlock the next part of the journey.  
+4. **Document your progress**—the first solver to complete it all earns bragging rights.  
 
 ---
 
-Good luck. And remember...  
-**The path lies in the shadows.**
+## 🌌 Final Hint
 
+"The sky is not the limit."  
+Stay curious, and remember:  
+> **Nothing is random. Every detail has a purpose.**  
+
+---
+
+## 🎬 YouTube Video  
+
+Watch the video introduction here:  
+🔗 [...](https://www.youtube.com/)  
+
+---
+
+Good luck, and may the light guide you. 🌒  
