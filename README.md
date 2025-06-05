@@ -44,7 +44,7 @@ Stay curious, and remember:
 ## 🎬 YouTube Video  
 
 Watch the video introduction here:  
-🔗 [...](https://www.youtube.com/)  
+🔗 (https://www.youtube.com/channel/UCc-O86GQ0wGoLoS3Z0bxNBw)
 
 ---
 
